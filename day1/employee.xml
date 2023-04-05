@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="employee.css"?>
+
+<Employees>
+  <Employee>
+    <Name>Samar Samy</Name>
+    <Phones>
+      <Phone Type="home">5192074</Phone>
+      <Phone Type="mobile">0120000000001</Phone>
+    </Phones>
+    <Addresses>
+      <Address>
+        <Street>Main St.</Street>
+        <BuildingNumber>11</BuildingNumber>
+        <Region>Smouha</Region>
+        <City>Aleaxandria</City>
+        <Country>Egypt</Country>
+      </Address>
+      <Address>
+        <Street>2nd St.</Street>
+        <BuildingNumber>22</BuildingNumber>
+        <Region>ElAgmi</Region>
+        <City>Aleaxandria</City>
+        <Country>Egypt</Country>
+      </Address>
+    </Addresses>
+    <Email>samar@gmail.com</Email>
+  </Employee>
+  <Employee>
+    <Name>Fatma Khaled</Name>
+    <Phones>
+      <Phone Type="work">5190012</Phone>
+      <Phone Type="mobile">0120000000002</Phone>
+    </Phones>
+    <Addresses>
+      <Address>
+        <Street>3nd St.</Street>
+        <BuildingNumber>33</BuildingNumber>
+        <Region>El_Seyouf</Region>
+        <City>Aleaxandria</City>
+        <Country>Egypt</Country>
+      </Address>
+    </Addresses>
+    <Email>fatma@gmail.com</Email>
+  </Employee>
+</Employees>
