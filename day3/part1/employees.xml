@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="employee.css"?>
+<Employees xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="employees.xsd">
+<Employee>
+    <Name>Habiba Alaa</Name>
+    <Phones>
+      <Phone Type="home">5192074</Phone>
+      <Phone Type="mobile">01277480087</Phone>
+    </Phones>
+    <Addresses>
+      <Address>
+        <Street>Main St.</Street>
+        <BuildingNumber>11</BuildingNumber>
+        <Region>Smouha</Region>
+        <City>Alexandria</City>
+        <Country>Egypt</Country>
+      </Address>
+      <Address>
+        <Street>2nd St.</Street>
+        <BuildingNumber>30</BuildingNumber>
+        <Region>Borg Elarab</Region>
+        <City>Aleaxandria</City>
+        <Country>Egypt</Country>
+      </Address>
+    </Addresses>
+    <Email>habibaalaaeldin18@gmail.com</Email>
+  </Employee>
+  <Employee>
+    <Name>Aya Alaa</Name>
+    <Phones>
+      <Phone Type="work">5190012</Phone>
+      <Phone Type="mobile">0120000000002</Phone>
+    </Phones>
+    <Addresses>
+      <Address>
+        <Street>3nd St.</Street>
+        <BuildingNumber>33</BuildingNumber>
+        <Region>nasrstreet</Region>
+        <City>Aleaxandria</City>
+        <Country>Egypt</Country>
+      </Address>
+    </Addresses>
+    <Email>AyaAlaa@gmail.com</Email>
+  </Employee>
+</Employees>
